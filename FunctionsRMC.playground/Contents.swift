@@ -4,11 +4,34 @@ func sayHello() {
 }
 
 sayHello()
-sayHello()
+// prints "Hello there!"
 
-//Uncomment this line to see the error that is printed in the console.
-// (You can uncomment a line by removing the // at the beginning of the line.)
-print(greeting)
+sayHello()
+// prints "Hello there!"
+
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
+sayHello()
 
 
 func sayHelloToGarfield() {
@@ -23,17 +46,12 @@ func sayHelloToScratchy() {
     print("Hello, Scratchy, why do you sleep so much?")
 }
 
-
 func sayHelloToCat(catName: String) {
     print("Hello, \(catName), why do you sleep so much?")
 }
+sayHelloToCat("Paws")
 
-sayHelloToCat("Mittens")
+let catName = "Meowser"
+sayHelloToCat(catName
+)
 
-let catFriend = "Socks"
-sayHelloToCat(catFriend)
-
-//Uncomment this line to see the error that is printed in the console.
-sayHelloToCat()
-
-//Should we also solve the errors in this lab?
